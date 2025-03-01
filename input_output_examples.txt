@@ -1,0 +1,133 @@
+Problem 1: Employee Management System (Easy Level)
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Name: John Doe
+Enter Salary: 50000
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 102
+Enter Name: Jane Smith
+Enter Salary: 60000
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 2
+Enter name or ID: 101
+ID: 101	Name: John Doe	Salary: 50000.0
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 2
+Enter name or ID: Jane Smith
+ID: 102	Name: Jane Smith	Salary: 60000.0
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 3
+Enter name or ID: 101
+ID: 101	Name: John Doe	Salary: 50000.0
+Removing employee
+ID: 101	Name: John Doe	Salary: 50000.0
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 4
+Enter employee ID to update: 102
+ID: 102	Name: Jane Smith	Salary: 60000.0
+Current details: ID: 102	Name: Jane Smith	Salary: 60000.0
+What do you want to update?
+1. Name
+2. Salary
+Choose: 1
+Enter new name: Jane Doe
+Name updated successfully.
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 2
+Enter name or ID: Jane Doe
+ID: 102	Name: Jane Doe	Salary: 60000.0
+
+Choose Operations-
+1. Add employee
+2. Find Employee
+3. Remove Employee
+4. Update Employee
+5. Exit
+Enter your choice: 5
+Exiting...
+
+
+
+
+Problem 2: Card Collection System (Medium Level)
+
+Enter the number of cards: 3
+
+Enter details for card 1-
+Enter symbol: H
+Enter number: 1
+
+Enter details for card 2-
+Enter symbol: D
+Enter number: 13
+
+Enter details for card 3-
+Enter symbol: H
+Enter number: 10
+
+Symbol: H, Cards: [H 1, H 10]
+Symbol: D, Cards: [D 13]
+Number of Symbols: 2
+Number of Cards: 3
+
+
+
+
+Problem 3: Ticket Booking System (Hard Level)
+
+VIP Booking: Seat 1 confirmed.
+Regular Booking: Seat 2 confirmed.
+VIP Booking: Seat 3 confirmed.
+Regular Booking: Error: Seat already booked.
+VIP Booking: Seat 4 confirmed.
+Regular Booking: Seat 5 confirmed.
+VIP Booking: Seat 6 confirmed.
+Regular Booking: Seat 7 confirmed.
+VIP Booking: Seat 8 confirmed.
+Regular Booking: Seat 9 confirmed.
+VIP Booking: Seat 10 confirmed.
+Regular Booking: Error: Seat already booked.
